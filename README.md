@@ -20,7 +20,7 @@ Get the software
 
 [code.zip](http://acgt.cs.tau.ac.il/docks/code.zip)
 
-This distribution is our officially supported executable for DOCKS. These binary are mostly self-contained and should work out of the box without any issues. For Integer Linear Programming solver (ILP) DOCKS uses Gurobi solver.
+This distribution is our officially supported executable for DOCKS. These binary are mostly self-contained and should work out of the box without any issues. For Integer Linear Programming solver (ILP) DOCKS uses [Gurobi solver](http://www.gurobi.com/).
 
 The software is freely available under the GNU Lesser General Public License, version 3, or any later version at your choice.
 
@@ -114,6 +114,6 @@ Yaron Orenstein, David Pellow, Guillaume Marcais, Ron Shamir and Carl Kingsford.
 WABI 2016.
 Journal version submitted.
 
-In case of any questions or suggestions please feel free to contact Yaron Orenstein.
+In case of any questions or suggestions please feel free to contact [Yaron Orenstein](mailto:yaronore@post.tau.ac.il).
 
 
