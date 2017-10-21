@@ -1,11 +1,11 @@
 # DOCKS
 
-These codes are developed by Yaron Orenstein, David Pellow, Guillaume Marcais, Ron Shamir and Cal Kingsford.
-They were originally posted [here](http://acgt.cs.tau.ac.il/docks/). 
+These codes are developed by Yaron Orenstein, David Pellow, Guillaume Marcais, Ron Shamir and Cal Kingsford,
+and were originally posted [here](http://acgt.cs.tau.ac.il/docks/). 
 The authors made the code freely available under GNU Lesser General Public License, version 3, or any later 
-version at your choice.
+version of your choice.
 
-Here is a copy and paste of the README file from [authors' site](http://acgt.cs.tau.ac.il/docks/) -
+The README file from [authors' site](http://acgt.cs.tau.ac.il/docks/) is presented below -
 
 ## DOCKS - Design of Compact K-mer Set for hash functions
 
@@ -109,6 +109,7 @@ Pre-computed universal (k,L) sets
 
 DOCKS can be cited as follows:
 [Compact universal k-mer sets](http://acgt.cs.tau.ac.il/papers/David_P_compact_universal_k-mer_hitting_sets.pdf)
+
 Yaron Orenstein, David Pellow, Guillaume Marcais, Ron Shamir and Carl Kingsford.
 WABI 2016.
 Journal version submitted.
